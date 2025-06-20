@@ -420,3 +420,21 @@ java.lang.ClassCastException: null
 [00:32:48] [Netty Epoll Server IO #3/INFO]: Player [_iBlacKing_] disconnected.
 [00:32:48] [Server thread/INFO]: _iBlacKing_ lost connection: Disconnected
 [00:32:48] [Server thread/INFO]: _iBlacKing_ left the game
+[00:33:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:39:06] [Server thread/INFO]: _iBlacKing_[/127.39.48.122:39345] logged in with entity id 2834 at (-68.82045548162014, 76.12118154349893, 303.09037017551526)
+[00:39:06] [Server thread/INFO]: Player [_iBlacKing_] joined.
+[00:39:06] [Server thread/INFO]: _iBlacKing_ joined the game
+[00:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
+[00:39:12] [Server thread/WARN]: _iBlacKing_ moved too quickly! 7.479732036805501,-6.937520841563526,1.0194999562025941
+[00:39:24] [Server thread/WARN]: _iBlacKing_ moved too quickly! -10.426453133928163,0.0,1.6655985915473934
+[00:39:27] [Server thread/WARN]: _iBlacKing_ moved too quickly! -9.857492026206572,-1.0104000401496904,2.2054140714449773
+[00:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[00:39:31] [Server thread/WARN]: _iBlacKing_ moved too quickly! -4.269405805862817,-1.517819522158149,9.15818432420133
+[00:40:31] [Netty Epoll Server IO #0/INFO]: Player [_iBlacKing_] disconnected.
+[00:40:31] [Server thread/INFO]: _iBlacKing_ lost connection: Disconnected
+[00:40:31] [Server thread/INFO]: _iBlacKing_ left the game
+[00:41:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:42:22] [Server thread/INFO]: _iBlacKing_[/127.39.48.122:33281] logged in with entity id 3518 at (-48.30000001192093, 110.0, 159.30000001192093)
+[00:42:22] [Server thread/INFO]: Player [_iBlacKing_] joined.
+[00:42:22] [Server thread/INFO]: _iBlacKing_ joined the game
+[00:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3628ms or 72 ticks behind
