@@ -1,19 +1,47 @@
 {
-  "minecraft:recipes/decorations/ladder": {
+  "repurposed_structures:root": {
     "criteria": {
-      "has_stick": "2025-06-20 00:17:52 +0000"
+      "always": "2025-06-20 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-20 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-06-20 00:32:20 +0000",
+      "minecraft:sparse_jungle": "2025-06-20 00:19:33 +0000",
+      "minecraft:jungle": "2025-06-20 00:14:14 +0000",
+      "minecraft:river": "2025-06-20 00:18:38 +0000",
+      "minecraft:plains": "2025-06-20 00:32:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-20 00:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-20 00:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-20 00:17:42 +0000"
     },
     "done": true
   },
   "polydecorations:recipes/decorations/jungle_sign_post": {
     "criteria": {
       "planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-06-20 00:17:42 +0000"
     },
     "done": true
   },
@@ -29,9 +57,99 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
+  "polydecorations:recipes/decorations/jungle_shelf": {
     "criteria": {
-      "in_water": "2025-06-20 00:18:33 +0000"
+      "planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "polydecorations:recipes/decorations/jungle_bench": {
+    "criteria": {
+      "planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "polydecorations:recipes/decorations/jungle_mailbox": {
+    "criteria": {
+      "planks": "2025-06-20 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-20 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-06-20 00:17:52 +0000"
     },
     "done": true
   },
@@ -41,27 +159,39 @@
     },
     "done": true
   },
-  "polydecorations:recipes/decorations/jungle_shelf": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "planks": "2025-06-20 00:17:49 +0000"
+      "has_stick": "2025-06-20 00:17:52 +0000"
     },
     "done": true
   },
-  "repurposed_structures:root": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "always": "2025-06-20 00:14:13 +0000"
+      "has_stick": "2025-06-20 00:17:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "unlock_right_away": "2025-06-20 00:14:13 +0000"
+      "has_stick": "2025-06-20 00:17:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
+      "has_stick": "2025-06-20 00:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-06-20 00:17:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-06-20 00:18:33 +0000"
     },
     "done": true
   },
@@ -107,12 +237,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-06-20 00:18:33 +0000"
@@ -137,33 +261,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-20 00:18:33 +0000"
-    },
-    "done": true
-  },
-  "polydecorations:recipes/decorations/jungle_bench": {
-    "criteria": {
-      "planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-20 00:17:42 +0000"
     },
     "done": true
   },
@@ -179,39 +279,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-06-20 00:17:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-20 00:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-06-20 00:17:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-06-20 00:17:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-06-20 00:17:52 +0000"
     },
     "done": true
   },
@@ -227,24 +297,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-06-20 00:17:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-20 00:18:33 +0000"
@@ -257,51 +309,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-06-20 00:17:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-06-20 00:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:jungle": "2025-06-20 00:14:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-06-20 00:17:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-06-20 00:17:49 +0000"
     },
     "done": true
   },
@@ -317,9 +327,24 @@
     },
     "done": true
   },
-  "polydecorations:recipes/decorations/jungle_mailbox": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "planks": "2025-06-20 00:17:49 +0000"
+      "woodland": "2025-06-20 00:32:34 +0000",
+      "wasteland": "2025-06-20 00:20:52 +0000",
+      "mediterranean_forest": "2025-06-20 00:32:40 +0000",
+      "scrubland": "2025-06-20 00:32:47 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "wasteland": "2025-06-20 00:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-20 00:31:41 +0000"
     },
     "done": true
   },

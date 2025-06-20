@@ -401,3 +401,22 @@ java.lang.ClassCastException: null
 [00:19:46] [Server thread/INFO]: Made _iBlacKing_ a server operator
 [00:20:02] [Server thread/INFO]: [_iBlacKing_: Set own game mode to Creative Mode]
 [00:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[00:23:50] [Netty Epoll Server IO #2/INFO]: Player [_iBlacKing_] disconnected.
+[00:23:50] [Server thread/INFO]: _iBlacKing_ lost connection: Disconnected
+[00:23:50] [Server thread/INFO]: _iBlacKing_ left the game
+[00:24:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:30:14] [Server thread/INFO]: _iBlacKing_[/127.39.48.122:52251] logged in with entity id 1692 at (252.24596614606406, 66.0, 0.08636373694766128)
+[00:30:14] [Server thread/INFO]: Player [_iBlacKing_] joined.
+[00:30:14] [Server thread/INFO]: _iBlacKing_ joined the game
+[00:30:52] [Server thread/INFO]: [_iBlacKing_: Set the time to 1000]
+[00:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[00:31:00] [Server thread/WARN]: _iBlacKing_ moved too quickly! -7.594905668968977,2.6754123937436134,-6.545267007965226
+[00:31:05] [Server thread/WARN]: _iBlacKing_ moved too quickly! -9.520137484690878,3.2725782705885678,1.1385220088167678
+[00:31:41] [Server thread/INFO]: _iBlacKing_ has reached the goal [Sky's the Limit]
+[00:32:06] [Server thread/WARN]: _iBlacKing_ moved too quickly! -17.136330175864863,3.4358977788338905,0.09310579430559329
+[00:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3623ms or 72 ticks behind
+[00:32:09] [Server thread/WARN]: _iBlacKing_ moved too quickly! -6.436685147443875,-13.032524436828595,10.535714841630252
+[00:32:16] [Server thread/WARN]: _iBlacKing_ moved too quickly! 6.582678378244324,-2.5576129075799514,-7.280560293349332
+[00:32:48] [Netty Epoll Server IO #3/INFO]: Player [_iBlacKing_] disconnected.
+[00:32:48] [Server thread/INFO]: _iBlacKing_ lost connection: Disconnected
+[00:32:48] [Server thread/INFO]: _iBlacKing_ left the game

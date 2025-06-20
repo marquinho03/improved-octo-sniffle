@@ -628,3 +628,5 @@ java.lang.Throwable
 [00:13:13] [Server thread/DEBUG] [REI] Updating players with new displays version 7A857BCC00000001 [from 7A857BCC00000000]
 [00:14:13] [Server thread/DEBUG] [REI] Player _iBlacKing_ has outdated displays version 0 [latest version: 7A857BCC00000001]
 [00:14:13] [Server thread/DEBUG] [REI] Player _iBlacKing_ has outdated displays version 0 [latest version: 7A857BCC00000001], sending reset packet request.
+[00:30:14] [Server thread/DEBUG] [REI] Player _iBlacKing_ has outdated displays version 0 [latest version: 7A857BCC00000001]
+[00:30:14] [Server thread/DEBUG] [REI] Player _iBlacKing_ has outdated displays version 0 [latest version: 7A857BCC00000001], sending reset packet request.
